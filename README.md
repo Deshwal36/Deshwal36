@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am currently working as Java Developer @
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/tata.svg' alt='tata' height='24'>
+I am currently working as Java Developer 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/tata.svg' alt='tata' height='21'>
 
 <p align="center">
 <img src='https://github-readme-stats.codestackr.vercel.app/api?username=Deshwal36&show_icons=true&hide=stars&count_private=true&card_width=418' alt='GitHub Stats' width='418'>
