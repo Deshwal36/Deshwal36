@@ -4,7 +4,7 @@ I am currently working as a Java Developer
 <br />
 <p align="center">
 <img src='https://github-readme-stats.codestackr.vercel.app/api?username=Deshwal36&show_icons=true&count_private=true&card_width=418' alt='GitHub Stats' width='418'>
-<img src='https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=Deshwal36&hide=swift,php,scss&layout=compact&card_width=418' alt='Most Used Languages' width='418'>
+<img src='https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=Deshwal36&hide=html,swift,php,scss&layout=compact&card_width=418' alt='Most Used Languages' width='418'>
 </p>
 
 ### Connect with me: 
