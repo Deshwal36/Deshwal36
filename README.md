@@ -1,3 +1,6 @@
+![Shivam Dehwal's GitHub Banner](./assets/profile_banner.svg)
+
+
 ### Hi there 👋
 I am currently working as a Java Developer 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/tata.svg' alt='tata' height='21'>
