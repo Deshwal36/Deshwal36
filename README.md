@@ -2,7 +2,12 @@
 
 
 ### Hi there 👋
-I am currently working as a Java Developer 
+Currently, I am working as a Backend Engineer.
+
+The Product that I'm currently working is NEXT an intelligent mobile cloud solution that is applying data science and machine learning technology to solve the hourly labor staffing problem prevalent in restaurants, retail, and hospitality. 
+
+Previously, I have worked as Java Developer at TCS BANCS ( GSP )
+ 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/tata.svg' alt='tata' height='21'>
 <br />
 
