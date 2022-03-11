@@ -9,7 +9,8 @@ The Product that I'm currently working is NEXT an intelligent mobile cloud solut
 Previously, I have worked as Java Developer at TCS BANCS ( GSP )
  
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/tata.svg' alt='tata' height='21'>
-### Connect with me: 
+
+### Let's Connect 🤝
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>][1]&nbsp;
 
