@@ -31,7 +31,7 @@ Additionally, I have experience as a Java Developer at TCS <img src='https://cdn
 [6]: https://leetcode.com/Deshwal36
 
 
-**Download Resume** [<img src='https://img.icons8.com/material-outlined/24/000000/download--v1.png' alt='Download Resume' height='32'>](./assets/Shivam_Resume_6YOE.pdf)&nbsp;
+**View Resume** [<img src='https://img.icons8.com/material-outlined/24/000000/download--v1.png' alt='Download Resume' height='32'>](./assets/Shivam_Resume_6YOE.pdf)&nbsp;
 
 
 
