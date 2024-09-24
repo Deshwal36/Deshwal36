@@ -14,7 +14,6 @@ Additionally, I have experience as a Java Developer at TCS <img src='https://cdn
 ### Let's Connect 🤝
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>][1]&nbsp;
-[<img src='./assets/Shivam_Resume' alt='Resume' height='32'>][1]&nbsp;
 
 ![Competitve](https://img.shields.io/amo/stars/coding?color=blue&label=Competitive&logo=coding&style=flat-square)
 
@@ -31,6 +30,8 @@ Additionally, I have experience as a Java Developer at TCS <img src='https://cdn
 [5]: https://codeforces.com/profile/Deshwal36
 [6]: https://leetcode.com/Deshwal36
 
+
+**Download Resume** [<img src='https://img.icons8.com/material-outlined/24/000000/download--v1.png' alt='Download Resume' height='32'>](./assets/Shivam_Resume_6YOE.pdf)&nbsp;
 
 
 
