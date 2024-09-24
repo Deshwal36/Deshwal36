@@ -14,6 +14,7 @@ Additionally, I have experience as a Java Developer at TCS <img src='https://cdn
 ### Let's Connect 🤝
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>][1]&nbsp;
+[<img src='./assets/Shivam_Resume' alt='Resume' height='32'>][1]&nbsp;
 
 ![Competitve](https://img.shields.io/amo/stars/coding?color=blue&label=Competitive&logo=coding&style=flat-square)
 
