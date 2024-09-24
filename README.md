@@ -2,12 +2,16 @@
 
 
 ### Hi there 👋
-Currently, I am working as a Backend Engineer.
 
-The Product that I'm currently working is NEXT an intelligent mobile cloud solution that is applying data science and machine learning technology to solve the hourly labor staffing problem prevalent in restaurants, retail, and hospitality. 
+Currently leading a modernization initiative for Blu Label Telecoms (BLT) in Africa. Passionate about optimizing processes and enhancing system performance.
 
-Previously, I have worked as Java Developer at TCS <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/tata.svg' alt='tata' height='21'> BANCS ( GSP )
+Experienced Backend Engineer with a proven track record in designing and implementing robust systems. Expertise in Java, Spring Framework, and cloud technologies. Skilled in developing comprehensive solutions for workforce management, payment systems, and corporate API integrations.
+
+Previously, I worked as a Backend Engineer on NEXT, a work-sharing platform addressing the critical need for workforce management in the US.
+
+Additionally, I have experience as a Java Developer at TCS <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/tata.svg' alt='tata' height='21'> BANCS (GSP)
  
+Additionally, I have experience as a Java Developer at TCS <img src='.asset/sapient.svg' alt='sapient' height='21'> BANCS (GSP)
 
 ### Let's Connect 🤝
 
